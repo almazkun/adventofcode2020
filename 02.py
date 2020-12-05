@@ -21,7 +21,7 @@ In the above example, 2 passwords are valid. The middle password, cdefg, is not;
 
 How many passwords are valid according to their policies?
 """
-file = "d://github/adventofcode2020/02_input.txt"
+file = "02_input.txt"
 
 test_obj = [
     ("1-3 a: abcde", True),
